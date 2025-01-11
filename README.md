@@ -1,2 +1,2 @@
 # amazon-clone
-Amazon website frontend clone which is build by using html and css 
+Amazon website Frontend Clone which is build by using html and css 
